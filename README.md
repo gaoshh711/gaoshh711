@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gaoshh711
-- 👀 I’m interested in sleeping（LOL）
-- 🌱 I’m currently learning how to sleep well
-- 📫 my email is gsh0711@139.com 
+- 👀 I’m interested in ~~sleeping~~ data science
+- 📫 my email is gsh0711@139.com/gaoshh1@shanghaitech.edu.cn
 - A CS student from ShanghaiTech
-
+- Projects during ShanghaiTech:
+  - [Horras](https://github.com/yanglinshu/horras)
