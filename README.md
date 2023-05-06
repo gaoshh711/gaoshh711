@@ -7,5 +7,5 @@
 - Projects during ShanghaiTech:
   - [Horras](https://github.com/yanglinshu/horras)
 ---
-I am looking for research opporturnities, especially in UCB!
+I am looking for research opporturnities!
 ---
