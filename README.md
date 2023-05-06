@@ -7,5 +7,5 @@
 - Projects during ShanghaiTech:
   - [Horras](https://github.com/yanglinshu/horras)
 ---
-I am looking for research opporturnities!
+I am looking for research opporturnities starting in Oct.2024.
 ---
